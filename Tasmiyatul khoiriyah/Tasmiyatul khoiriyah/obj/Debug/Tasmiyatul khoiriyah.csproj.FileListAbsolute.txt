@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\bin\Debug\Tasmiyatul khoiriyah.exe.config
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\bin\Debug\Tasmiyatul khoiriyah.exe
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\bin\Debug\Tasmiyatul khoiriyah.pdb
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\obj\Debug\Tasmiyatul khoiriyah.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\obj\Debug\Tasmiyatul khoiriyah.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\obj\Debug\Tasmiyatul khoiriyah.exe
+C:\Users\Asus\source\repos\Tasmiyatul khoiriyah\Tasmiyatul khoiriyah\obj\Debug\Tasmiyatul khoiriyah.pdb
